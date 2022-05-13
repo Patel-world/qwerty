@@ -138,8 +138,8 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
     }
     div#try658 {
         gap: 15px !important;
-        display: inline-flex;
-    }
+        display: inline-flex !important;
+    justify-content: space-between;}
     div#carouselExampleSlidesOnly {
         margin: 0rem !important;
     }
@@ -356,13 +356,13 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
         gap: 1rem;
     }
     div.qwasz {
-        margin-block-start: 0rem;margin-inline-end: 2rem;
+        margin-block-end: 1rem !important;margin-block-start: 0rem;margin-inline-end: 2rem !important;
         flex-wrap: wrap !important;
         margin-block-end: 0rem;
         margin-inline-start: -1rem !important;
         display: inline-flex !important;
-        gap: 10px !important;
-    grid-column-gap: 10px !important;}
+        
+    }
     .w-100 {
         width: 100vw !important;
     }
