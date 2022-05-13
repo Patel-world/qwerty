@@ -25,7 +25,7 @@ div#carouselExampleSlidesOnly {margin: 2rem;}
 
 .card.mb-3 {width: fit-content;/* margin-inline-start: 2rem; */}
 
-.row.g-0 {height: 24vh;width: 30vw;}
+.row.g-0 {height: 29vh;width: 29vw;}
 
 img.img-fluid.rounded-start {padding: 1rem;}
 
@@ -47,7 +47,7 @@ div#ewq12 {/* flex-direction: column-reverse; */height: 2.6rem;gap: 0rem;display
 
 .wqe21 {border: 1px solid rgba(0,0,0,.125);width: 30vw;}
 
-div#flw1 {margin-inline-start: 7rem;display: inline-flex;
+div#flw1 {margin-inline-start: 4rem;display: inline-flex;
     justify-content: space-between;
     /* gap: 0.4rem; */padding-block-start: 0.4rem;}
 
@@ -131,6 +131,26 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
 
 
 @media only screen and (max-width: 600px) {
+    div#fde3 {
+        display: inline-flex;
+        column-gap: 5rem;
+    }
+    div#wq22x {
+        margin-inline-start: 1rem;width: 94vw;
+        margin-block-end: 1rem;
+        color: #ffff;
+        background-color: #F30000;
+        padding-block-start: 0.7rem;
+        padding-block-end: 1.3rem;
+        border-radius: 0.4rem;
+        height: 2.5rem;
+    padding-inline-start: 6rem;}
+    .faq-container {
+       display: none !important;
+    }
+    div#gtr {
+        display: none;
+    }
     body {
         margin-block-start: 1rem;
         width: 120vw;
@@ -210,7 +230,7 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
     }
     h4{
         font-size: 1rem;
-    margin-inline-start: 2rem;font-weight: 700;}
+    margin-inline-start: 1rem;font-weight: 700;}
     div#ewq131 {
         display: inline-flex;
         gap: 0rem;
@@ -312,7 +332,7 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
         margin-block-start: 0.2rem;
     }
     div#flw1 {
-        margin-inline-start: 2rem;
+        margin-inline-start: 4rem;
         display: inline-flex;
         justify-content: space-between;
         /* gap: 0.4rem; */
@@ -341,7 +361,7 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
         width: 7rem;
     }
     h6{
-        font-weight: 700;font-size: 0.8rem;
+        margin-inline-start: 0rem;font-weight: 700;font-size: 0.8rem;
     }
 
     div#qwera{
@@ -395,7 +415,7 @@ div.qwasz {
 
 div#fde2 {/* display: inline-flex; *//* flex-direction: column; */}
 
-body {margin-block-start: 1rem;width: 98vw;overflow-x: hidden;}
+body {margin-block-start: 1rem;width: 98vw;overflow-x: hidden !important;}
 
 
 
@@ -480,10 +500,12 @@ font-size: 24px;margin-inline-start: 1.7rem;}
 
 div#gft {gap: -8px;display: inline-flex;}
 
-div#yth7 {padding-block-start: 10rem;display: inline-flex;justify-content: space-between;gap: 33rem;}
+div#yth7 {padding-block-start: 0rem;display: inline-flex;justify-content: space-between;gap: 33rem;}
 
-section#back {background-image: url(images/back.svg);background-repeat: no-repeat;height: 100vh;}
+section#back {/* background-image: url(images/back.svg); */background-repeat: no-repeat;height: 100vh;width: 98vw;}
 
 a {text-decoration: none;}
 
 .col {}
+
+div#uiy5 {width: 68vw;}
