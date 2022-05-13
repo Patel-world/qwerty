@@ -138,8 +138,8 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
         display: block !important;
     }
     div#fde3 {
-        display: inline-flex !important;
-        column-gap: 5rem;
+        /* margin-inline-start: 2rem; */display: inline-flex !important;
+        /* column-gap: 5rem; */
     justify-content: space-between;}
     div#wq22x {
         margin-inline-start: 1rem;width: 94vw;
