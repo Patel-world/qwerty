@@ -381,3 +381,5 @@ div.qwasz {
     }
 
 div#fde2 {/* display: inline-flex; *//* flex-direction: column; */}
+
+body {overflow-x: hidden;}
