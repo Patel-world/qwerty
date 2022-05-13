@@ -135,7 +135,7 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
         display: none;
     }
     #mobil1{
-        display: block;
+        display: block !important;
     }
     .container1{
         display: block !important;
