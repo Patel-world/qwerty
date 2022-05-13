@@ -364,7 +364,7 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
 
 
 
-div#try658 {gap: 2rem;display: inline-flex;}
+div#try658 {gap: 1rem;display: inline-flex;}
 
 .col-md-4 {}
 
@@ -382,4 +382,4 @@ div.qwasz {
 
 div#fde2 {/* display: inline-flex; *//* flex-direction: column; */}
 
-body {width: 100vw;overflow-x: hidden;}
+body {/* width: 100vw; */overflow-x: hidden;}
