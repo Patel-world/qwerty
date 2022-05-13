@@ -391,4 +391,95 @@ div.qwasz {
 
 div#fde2 {/* display: inline-flex; *//* flex-direction: column; */}
 
-body {/* width: 100vw; */overflow-x: hidden;}
+body {margin-block-start: 1rem;/* width: 100vw; */overflow-x: hidden;}
+
+
+
+.faq-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    }
+    .hr-line{
+      width: 60%;
+      margin-inline-start: 1rem;
+      
+    }
+    /* Style the buttons that are used to open and close the faq-page body */
+    .faq-page {
+        /* medium/18 */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+/* blue */
+
+color: #0061A3 !important;/* background-color: #eee; */
+        color: #444;
+        cursor: pointer;
+        padding: 13px 12px;
+        width: 60%;
+        border: none;
+        outline: none;
+        transition: 0.4s;
+        margin-inline-start: 1rem;
+    
+    }
+    .faq-body{
+        margin-inline-start: 1rem;
+        /* text-align: center; */
+       width: 50%; 
+       padding: auto;
+       
+    }
+    
+    
+    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+    .active,
+    .faq-page:hover {
+        /* background-color: #F9F9F9; */
+    }
+    
+    /* Style the faq-page panel. Note: hidden by default */
+    .faq-body {
+        padding: 0 18px;
+        background-color: white;
+        display: none;
+        overflow: hidden;
+    }
+    
+    .faq-page:after {
+        content: '\02795';
+        /* Unicode character for "plus" sign (+) */
+        font-size: 13px;
+        color: #777;
+        float: right;
+        margin-left: 5px;
+    }
+    
+    .active:after {
+        content: "\2796";
+        /* Unicode character for "minus" sign (-) */
+    }
+    
+
+div#gtr {font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;margin-inline-start: 1.7rem;}
+
+div#gft {gap: -8px;display: inline-flex;}
+
+div#yth7 {padding-block-start: 10rem;display: inline-flex;justify-content: space-between;gap: 33rem;}
+
+section#back {background-image: url(images/back.svg);background-repeat: no-repeat;height: 100vh;}
+
+a {text-decoration: none;}
+
+.col {}
