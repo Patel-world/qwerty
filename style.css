@@ -131,6 +131,12 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
 
 
 @media only screen and (max-width: 600px) {
+    #fde3{
+        display: none;
+    }
+    .container3{
+        display: block;
+    }
     div#fde3 {
         display: inline-flex;
         column-gap: 5rem;
