@@ -137,7 +137,7 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
         flex-direction: column-reverse;
     }
     div#try658 {
-        gap: 1rem !important;
+        gap: 15px !important;
         display: inline-flex;
     }
     div#carouselExampleSlidesOnly {
@@ -361,8 +361,8 @@ div#re43w {margin-block-end: 0.2rem;margin-inline-start: 1rem;border: 1px solid 
         margin-block-end: 0rem;
         margin-inline-start: -1rem !important;
         display: inline-flex !important;
-        gap: 1rem !important;
-    grid-column-gap: 7.6rem !important;}
+        gap: 10px !important;
+    grid-column-gap: 10px !important;}
     .w-100 {
         width: 100vw !important;
     }
